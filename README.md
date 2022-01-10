@@ -68,3 +68,4 @@ limit any of our or your liabilities in any way that is not permitted under appl
 exclude any of our or your liabilities that may not be excluded under applicable law.
 The limitations and prohibitions of liability set in this Section and elsewhere in this disclaimer: (a) are subject to the preceding paragraph; and (b) govern all liabilities arising under the disclaimer, including liabilities arising in contract, in tort and for breach of statutory duty.
 As long as the Application and the information and services on the Application are provided free of charge, we will not be liable for any loss or damage of any nature.
+Your funds in this application do not represent real money. Your virtual finances are strictly simulated. You use this application for free of charge without providing any financial information.
