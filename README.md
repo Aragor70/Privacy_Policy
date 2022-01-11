@@ -36,7 +36,7 @@ System wide Accredited Businesses except soliciting non-profit organizations, ch
 These organizations may link to our home page, to publications or to other Application information so long as the link: (a) is not in any way deceptive; (b) does not falsely imply sponsorship, endorsement or approval of the linking party and its products and/or services; and (c) fits within the context of the linking party's site.
 We may consider and approve other link requests from the following types of organizations:
 commonly-known consumer and/or business information sources;
-dot.com community sites;
+NiVest community sites;
 associations or other groups representing charities;
 online directory distributors;
 internet portals;
